@@ -1,7 +1,7 @@
 # WELCOME! 👋 🤗
 
 <a href="https://www.jirivecko.cz" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.jirivecko.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fji%C5%99%C3%AD_vecko_logo_PNG.3bc95234.png&w=1080&q=75" alt="Portrait" width="250" align="right" />
+  <img src="https://www.jirivecko.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fji%C5%99%C3%AD_vecko_logo_PNG.3bc95234.png&w=1080&q=75" alt="Portrait" width="300" align="right" />
 </a>
 
 ### Jiří Vecko | Junior Full-Stack Developer 
