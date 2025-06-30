@@ -1,10 +1,10 @@
 # WELCOME! 👋 🤗
 
-<h3 align="left">Jiří Vecko | Junior Full-Stack Developer</h3>
-
 <a href="https://www.jirivecko.cz" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.jirivecko.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fji%C5%99%C3%AD_vecko_logo_PNG.3bc95234.png&w=1080&q=75" alt="Portrait" width="280" align="right" />
+  <img src="https://www.jirivecko.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fji%C5%99%C3%AD_vecko_logo_PNG.3bc95234.png&w=1080&q=75" alt="Portrait" width="300" align="right" />
 </a>
+
+<h3 align="left">Jiří Vecko | Junior Full-Stack Developer</h3>
  
 - My biggest motivation is the desire to learn new things.  
 - That's why I started programming in 2021, and I'm constantly moving forward.  
