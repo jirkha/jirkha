@@ -4,7 +4,7 @@
 ---
 
 <a href="https://www.jirivecko.cz" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.jirivecko.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fji%C5%99%C3%AD_vecko_logo_PNG.3bc95234.png&w=1080&q=75" alt="Portrait" width="300" align="right" />
+  <img src="https://www.jirivecko.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fji%C5%99%C3%AD_vecko_logo_PNG.3bc95234.png&w=1080&q=75" alt="Portrait" width="275" align="right" />
 </a>
 
 - My biggest motivation is the desire to learn new things.  
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" />
 </a> 
 <a href="mailto:veckoj@seznam.cz">
-  <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" width="50" />
+  <img src="https://img.icons8.com/fluency/48/secured-letter.png" alt="Email" width="50" />
 </a> 
 <a href="https://www.jirivecko.cz" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="50" />
