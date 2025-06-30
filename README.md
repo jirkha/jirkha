@@ -4,12 +4,12 @@
   <img src="https://www.jirivecko.cz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fji%C5%99%C3%AD_vecko_logo_PNG.3bc95234.png&w=1080&q=75" alt="Portrait" width="280" align="right" />
 </a>
 
-### Jiří Vecko | Junior Full-Stack Developer 
-
+<h3 align="left">Jiří Vecko | Junior Full-Stack Developer</h3>
+ 
 - My biggest motivation is the desire to learn new things.  
 - That's why I started programming in 2021, and I'm constantly moving forward.  
 - I have experience with JavaScript/TypeScript, React Next.js, Python and Django.
-
+ 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="24" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="24" /> 
